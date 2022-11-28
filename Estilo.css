@@ -1,0 +1,441 @@
+#enca>img{
+    border-radius: 50%;
+    height: 6rem;
+    width: 6rem;
+}
+#enca{
+    font-size: 120px;
+}
+#titulo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#vd{
+    display: flex;
+    justify-content: center;
+}
+#sel{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    
+    padding-top: 0%;
+    padding: 0%;
+}
+#what{
+    display: flex;
+    justify-content: space-around;
+}
+#a{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#bus{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
+#bs{
+    background-color: aqua;
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    padding: 2%;
+}
+#what>li>a>img{
+    height: 1rem;
+    width: 1rem;
+}
+#ru{
+    display: flex;   
+    padding-top: 5%;
+    padding-left: 2%;
+}
+li{
+    display: flex;   
+}
+li>img{
+    height: 1rem;
+    width: 1rem;
+}
+#desp{    
+    padding: 0%;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+}
+#com{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 8rem;
+}
+#what>li>a>img{
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+}
+#com>#ca{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+#ca{
+    display: flex;
+    justify-content: space-between;
+}
+#ca>div{
+    height: 12rem;
+    display: flex;    
+}
+#cc{    
+    height: 1rem;
+    width: 25rem;
+}
+#ca>div{   
+    display: flex;
+}
+#com>#ca>div>div>h2{
+    color:black;
+    display: flex;
+}
+#cc>div>p{
+    color: aqua;
+}
+#cc>div>div>p{
+    color: aqua;
+}
+#e{
+    padding-bottom: 1%;
+}
+select{
+    width: 10rem;
+    background-color: rgb(46,117, 182);
+    border: 1px rgb(46,117, 182) solid;
+    color: white;
+    padding-right: 0%;
+    margin: 0px;
+}
+button{
+    background-color: rgb(46,117, 182);
+    border: 2px rgb(46,117, 182) solid;
+    color: white;
+}
+#bus>div>input{
+    width: 36rem;
+    border-radius: 50px;
+    height: 1.5rem;
+    
+}
+
+#bs{
+    width: 1rem;
+    height: 1rem;
+}
+#bs>img{
+    width: 1rem;
+    height: 1rem;
+}
+#ca>div>div>img{
+    width: 6rem;
+    height: 6rem; 
+
+}
+#ca>div>div>{
+    height: 12rem;
+    width: 12rem;
+}
+#vd{
+    display: flex;
+    padding-left: 6px;
+   justify-content: space-around;
+    align-items: center; 
+}
+div>img{
+    width: 85.5rem;
+}
+body{
+    padding: 3%;
+    background-color: rgb(46,117, 182);
+}
+P{
+color: antiquewhite;
+padding-left:1.7% ;
+}
+a{
+    color: aliceblue;
+}
+#cen {
+display: flex;
+justify-content: center;
+}
+
+option{
+    background-color: white;
+    border: 2px rgb(46,117, 182) solid;
+    color: rgb(3, 26, 31);
+}
+#ar{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    
+}
+#r{
+    color: black;
+    padding-left: 0%;
+    padding-right: 5%;
+
+}
+#ar>div>div>input{
+    background-color: rgb(46,117, 182);
+    border: 2px white solid;
+}
+p{
+    color: black;
+}
+#pl{
+    background-color: black;
+    border: 1px white solid;
+}
+
+#acc{
+    background-color: blue;
+    height: 10%;
+    border-radius: 20px;
+    
+}
+.compra>div>a>img{
+    height: 15rem;
+    width: 12rem;
+    border-radius: 4%;
+}
+.compra{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    flex-wrap: wrap;
+}
+.compra>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    height: 20rem;
+    width: 13rem;
+    border-radius: 4%;
+}
+.compra>div>a{
+    color: black;
+}
+.compra>div{
+    display: flex;
+    flex-direction: column;
+}
+#pie>div>a>img{
+    height: 2rem;
+    width: 2rem;
+}
+#pie>div>div>img{
+    height: 6rem;
+    width: 6rem;
+}
+#conta{
+    display: flex;
+}
+#pie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pie>div>p{
+    color: white;
+}
+.pie{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+hr{
+    color: white;
+}
+.centro{
+    background-color: rgb(201, 247, 231);
+    padding: 0px;
+    margin: 0px;
+}
+h6{
+    color: white;
+}
+#derechos{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.imagenes>div>div>div>img{
+    height: 18rem;
+    width: 18rem;
+    border-radius:50%;
+    padding: 5px;
+}
+
+.imagenes{
+    display: flex;
+    flex-direction: column;
+
+}
+#arte{
+    background-color: rgba(179, 183, 185, 0.801);
+    display: flex;
+    flex-direction: column;
+    border: 1px white solid;
+    border-radius: 20px;
+    
+}
+
+#pin{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#empastado>img{
+    background-color: white;
+}
+.gmaps{
+    display: flex;
+    justify-content: center;
+}
+#maps>a>img{
+    height: 3rem;
+    width: 3rem;
+}
+.maps>div>img{
+    height: 25rem;
+    width: 25rem;
+}
+.maps{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 30rem;
+    width: 30rem;
+    background-color: rgb(176, 208, 236);
+}
+.maps>div>p{
+    color: rgb(9, 56, 97);
+}
+.maps>div{
+    display: flex;
+    justify-content: center;
+}
+@media(max-width:920px){
+    #enca>img{
+        border-radius: 50%;
+        height: 3rem;
+        width: 3rem;
+    }
+    #enca{
+        font-size: 20px;
+    }
+    div>img{
+        width: 26rem;
+    }
+    .compra>div>a>img{
+        height: 7rem;
+        width: 5rem;
+        border-radius: 4%;
+        padding: 0%;
+    }
+
+    .imagenes>div>div>div>img{
+        height: 8rem;
+        width: 8rem;
+        border-radius:50%;
+        padding: 5px;
+    }
+    .compra>div{
+        display: flex;
+        justify-content: space-around;
+        align-content: space-around;
+        background-color: aliceblue;
+        height: 12rem;
+        width: 10rem;
+        border-radius: 4%;
+        
+    }
+    #sel{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        height: 8rem;
+    }
+    #ca>div{
+        height: 6rem;
+        width: 12rem;
+        display: flex;
+     
+        
+    }
+    #ca>div>div>img{
+        width: 3rem;
+        height: 3rem; 
+    
+    }
+    #ca>div>div{
+        height: 6rem;
+        width: 12rem; 
+    }
+    #cc{
+        height: 1rem;
+        width: 10rem;
+    }
+    #bus>div>input{
+        width: 15rem;
+        border-radius: 50px;
+        height: 1rem;
+        padding-left:   0px;
+    }
+    #com>#ca>div>div>h2{
+        color:black;
+        display: flex;
+        font-size: 14px;
+    }
+    #cc>div>p{
+        color: aqua;
+        font-size: 12px;
+    }
+    #cc>div>div>p{
+        color: aqua;
+        font-size: 12px;
+    }
+    #cc>div>div>h2{
+        font-size: 14px;
+    }
+    #a>div>div>img{
+        border-radius: 50%;
+        height: 4rem;
+        width: 4rem;
+    }
+    #vd{
+        display: flex;
+        flex-direction: column;
+    }
+    li>a{
+        font-size: 12px;
+    }
+    #what>li>a>img{
+        height: 2rem;
+        width: 2rem;
+    }
+    #a{
+        flex-direction: column;
+    }
+}
